@@ -5,7 +5,6 @@ I'm Erik from Los Angeles, and I am beginning my journey in Web Development.
 
 ## Skills and Experience
 * ⚛ React
-* 📱 React Native
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
