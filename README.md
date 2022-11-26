@@ -3,6 +3,7 @@
 # Erik Garcia
 I'm Erik from Los Angeles, and I am beginning my journey in Web Development.
 
+
 ## Skills and Experience
 * ⚛ React
 * 💻 HTML, CSS, JS
