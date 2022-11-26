@@ -1,9 +1,7 @@
 
 
 # Erik Garcia
-https://github.com/CodeMeALife/CodeMeALife/blob/main/GitHubBanner.png
-
-*/ I'm Erik from Los Angeles, and I am beginning my journey in Web Development. /*
+I'm Erik from Los Angeles, and I am beginning my journey in Web Development. 
 
 
 ## Skills and Experience
